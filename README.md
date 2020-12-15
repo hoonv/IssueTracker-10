@@ -29,6 +29,12 @@
 | <img width="200" src="https://user-images.githubusercontent.com/19145853/98321886-7b575100-2029-11eb-875a-39ff93a6d73d.gif"> | <img width="200" src="https://user-images.githubusercontent.com/19145853/98321897-84482280-2029-11eb-8cb9-523d86147ecf.gif"> | <img width="200" src="https://user-images.githubusercontent.com/19145853/98321900-8611e600-2029-11eb-99e8-dd8217dbf957.gif"> | <img width="200" src="https://user-images.githubusercontent.com/19145853/98322193-341d9000-202a-11eb-936c-82ed1e443623.gif"> |
 
 
+### 3주차
+|                            create Comment                            |                         add Label                         |                        delete Label                         |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img width="200" src="https://user-images.githubusercontent.com/46335714/102198352-a163f100-3f05-11eb-8c38-048f38d4b230.gif"> | <img width="200" src="https://user-images.githubusercontent.com/46335714/102198358-a2951e00-3f05-11eb-9c5e-1e06216edcd5.gif"> | <img width="200" src="https://user-images.githubusercontent.com/46335714/102198366-a45ee180-3f05-11eb-8a8c-936b5090b612.gif"> |
+
+
 ## WIKI 🗒
 >[WIKI에 놀러오세요~](https://github.com/boostcamp-2020/IssueTracker-10/wiki)
 >
